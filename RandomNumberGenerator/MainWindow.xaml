@@ -5,7 +5,8 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:RandomNumberGenerator"
         mc:Ignorable="d"
-        Title="RandomNumberGenerator" Height="400" Width="450">
+        Title="RandomNumberGenerator" Height="400" Width="450"
+        Icon="hashtag.ico">
     <Grid Margin="-1,-1,1.2,0.4">
         <TextBox Name="StartingValue" HorizontalAlignment="Left" Height="23" Margin="44,58,0,0" Text="" VerticalAlignment="Top" Width="86"/>
         <TextBox Name="EndingValue" Height="23" Margin="307,58,54,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top"/>
